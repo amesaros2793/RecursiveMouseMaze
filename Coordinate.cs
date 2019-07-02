@@ -9,6 +9,10 @@ public class Coordinate
     private int row;
     private int col;
 
+    //*******************************************************
+
+    // constructors
+    
     // no argument constructor
     public Coordinate()
     {
